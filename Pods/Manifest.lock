@@ -1,0 +1,20 @@
+PODS:
+  - Cosmos (21.0.0)
+  - MBProgressHUD (1.2.0)
+
+DEPENDENCIES:
+  - Cosmos (~> 21.0)
+  - MBProgressHUD
+
+SPEC REPOS:
+  trunk:
+    - Cosmos
+    - MBProgressHUD
+
+SPEC CHECKSUMS:
+  Cosmos: 3dfb6e4ba48bd48b8c9aa2a77048ae11ed114f96
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+
+PODFILE CHECKSUM: d518a7a03eb9095599dff5122201a1daefdfe6fd
+
+COCOAPODS: 1.8.4
