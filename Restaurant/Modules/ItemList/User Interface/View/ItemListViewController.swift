@@ -39,6 +39,7 @@ class ItemListViewController: UIViewController {
         super.viewDidLoad()
         tableView.delegate = self
         tableView.dataSource = self
+        DetailViewBackGround.isHidden = true
     }
     
     // MARK: IBActions
